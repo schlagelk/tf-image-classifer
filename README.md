@@ -1,6 +1,4 @@
 # tf-image-classifer
-Basic Tensorflow Scripts
-
 
 Train your model
 `sh train.sh`
